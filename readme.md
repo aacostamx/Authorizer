@@ -1,7 +1,7 @@
 # Code Challenge — Authorizer
 
 ## Stack
-* Net Core
+* .NET Core
 * C Sharp
 * Docker
 
