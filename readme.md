@@ -1,44 +1,30 @@
+
 # Code Challenge — Authorizer
 
 ## Stack
 * .NET Core
-* C Sharp
 * Docker
 
 # Build and run
 
 ## Install Docker
+[https://docs.docker.com/install/](https://docs.docker.com/install/)
 
-### Mac
+## Download Docker Image 
+WeTransfer:
+https://we.tl/t-Gk3d51w4B6
 
- 1. [Download Docker](https://download.docker.com/mac/beta/Docker.dmg)
- 2. Double-click the DMG file, and drag-and-drop Docker into your
-    Applications folder.
- 3. You need to authorize the installation with your system password.
- 4. Double-click Docker.app to start Docker.
- 5. The whale in your status bar indicates Docker is running and
-    accessible.
- 6. Docker presents some information on completing common tasks and
-    links to the documentation.
- 7. You can access settings and other options from the whale in the
-    status bar. a. Select About Docker to make sure you have the latest
-    version.
+Dropbox:
+https://www.dropbox.com/s/oneip7569cwywwt/authorizetransaction.tar?dl=0
 
-### Linux
-If you use Ubuntu Trusty, Wily, or Xenial, install the linux-image-extra kernel package:
+Image Name:
+**authorizetransaction.tar**
 
-> sudo apt-get update -y && sudo apt-get install -y
-> linux-image-extra-$(uname -r)
+![Download file](https://picasaweb.google.com/112047186864648760657/6735223972414607473#6735223976139150130 "Download file")
 
-Install Docker: 
+## Install Docker Image
+Open Bash 
+Navigate to the Image path
 
-> sudo apt-get install docker-engine -y
 
-Start Docker: 
-
->  sudo service docker start
-
-Verify Docker:
-
->  sudo docker run hello-world
 
